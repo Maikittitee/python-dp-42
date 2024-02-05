@@ -1,6 +1,5 @@
 # your method definition here
 
-
 def	famous_births(d:dict):
 	new_dict = dict(sorted(d.items(), key=lambda item: item[1]["date_of_birth"]))
 	for k,v in new_dict.items():
