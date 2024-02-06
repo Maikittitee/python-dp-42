@@ -3,7 +3,7 @@
 def	famous_births(d:dict):
 	new_dict = dict(sorted(d.items(), key=lambda item: item[1]["date_of_birth"]))
 	for k,v in new_dict.items():
-		print(f"{v['name']} is a great scientist born in {v['date_of_birth']}.")
+		print(f"{v['name']} is a great scientist born in {int(v['date_of_birth'])}.")
 
 women_scientists = {
 "ada": { "name": "Ada Lovelace", "date_of_birth": "1815" },
