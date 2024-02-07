@@ -1,3 +1,6 @@
+
+#!/opt/homebrew/bin/python3
+
 def	hello():
 	print("Hello, everyone!")
 

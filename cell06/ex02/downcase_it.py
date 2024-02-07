@@ -1,3 +1,6 @@
+
+#!/opt/homebrew/bin/python3
+
 def downcase_it(s):
 	return (s.lower())
 

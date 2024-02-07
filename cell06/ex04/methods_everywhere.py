@@ -1,3 +1,6 @@
+
+#!/opt/homebrew/bin/python3
+
 import sys
 
 def shrink(s: str):

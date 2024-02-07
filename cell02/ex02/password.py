@@ -1,5 +1,5 @@
-#!/usr/local/bin/python3
 
+#!/opt/homebrew/bin/python3
 password = "Python is awesome"
 
 inp = str(input())
