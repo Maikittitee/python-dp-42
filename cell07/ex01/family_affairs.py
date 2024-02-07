@@ -1,7 +1,5 @@
 #!/opt/homebrew/bin/python3
 
-
-
 def find_the_redheads(d:dict):
 # 	# return ([name for name, color in d.items() if color == "red"])
 	return list(dict(filter(lambda x: x[1] == 'red', d.items())).keys())

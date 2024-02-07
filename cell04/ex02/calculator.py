@@ -1,5 +1,5 @@
-
 #!/opt/homebrew/bin/python3
+
 n1 = int(input("Give me the first number: "))
 n2 = int(input("Give me the second number: "))
 print("Thank you!")

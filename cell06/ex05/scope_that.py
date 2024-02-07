@@ -1,6 +1,5 @@
 #!/opt/homebrew/bin/python3
 
-
 def add_one(a):
 	return (a + 1)
 

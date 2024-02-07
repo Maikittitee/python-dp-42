@@ -1,5 +1,3 @@
-
-
 #!/opt/homebrew/bin/python3
 
 def average(d:dict):
