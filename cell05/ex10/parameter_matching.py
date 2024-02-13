@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 import sys
 
 while (len(sys.argv) == 1):

@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 def is_int(n):
 	try:
 		int(n)

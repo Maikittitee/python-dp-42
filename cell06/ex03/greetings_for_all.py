@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 def greetings(s = "noble stranger."):
 	try:
 		print("Hello, " + s)

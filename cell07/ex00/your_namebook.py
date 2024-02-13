@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 # your method definition here
 
 def array_of_names(d:dict): 

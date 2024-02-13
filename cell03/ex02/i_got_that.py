@@ -1,4 +1,4 @@
-
+#!/opt/homebrew/bin/python3
 
 inp = input("What you gotta say? : ")
 while (True):

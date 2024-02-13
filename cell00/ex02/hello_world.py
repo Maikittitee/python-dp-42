@@ -1,3 +1,3 @@
 #!/opt/homebrew/bin/python3
 
-print("42")
+print("hello World")
